@@ -1,0 +1,16 @@
+.bodybackground {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+h2 {
+	color: powderblue;
+	font-family: verdana;
+	font-size: 200%;
+}
